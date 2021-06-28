@@ -1,0 +1,22 @@
+{
+    "name": "Make Positive-762-7220291-L",
+    "key": "7220291-Discover-L",
+    "type": "scheduled",
+    "status": "Ready",
+    "schedule": {},
+    "steps": [
+        {
+            "name": "Common step for run load Discover",
+            "description": "Auto generated step task",
+            "step": 1,
+            "activities": [
+                {
+                    "name": "DL MainDiscover Oracle-DSVR",
+                    "displayOrder": 1,
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations"
+}

@@ -1,0 +1,27 @@
+{
+    "customerKey": "18620096-a5f8-470a-a005-d11095fa1108",
+    "assetType": {
+        "name": "freeformblock",
+        "displayName": "Free Form Block"
+    },
+    "name": "rspb - free form block",
+    "owner": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "createdDate": "2017-06-15T04:32:27.357-06:00",
+    "createdBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "modifiedDate": "2017-06-15T04:51:17.163-06:00",
+    "modifiedBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder/002 RSPB"
+}

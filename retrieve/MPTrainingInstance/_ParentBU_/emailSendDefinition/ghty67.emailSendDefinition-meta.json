@@ -1,0 +1,32 @@
+{
+    "CreatedDate": "2016-11-14T04:23:32.527",
+    "ModifiedDate": "2019-01-15T10:04:59.123",
+    "CustomerKey": "ghty67",
+    "Name": "45",
+    "Description": "",
+    "SendClassification": {
+        "CustomerKey": "Default Commercial"
+    },
+    "SenderProfile": {
+        "CustomerKey": "Default"
+    },
+    "DeliveryProfile": {
+        "CustomerKey": "Default"
+    },
+    "SuppressTracking": "false",
+    "IsSendLogging": "true",
+    "BccEmail": "",
+    "AutoBccEmail": "",
+    "TestEmailAddr": "",
+    "EmailSubject": "%%Birthday%%%%Email%%",
+    "DynamicEmailSubject": "%%Birthday%%%%Email%%",
+    "IsMultipart": "true",
+    "IsWrapped": "true",
+    "DeduplicateByEmail": "false",
+    "ExclusionFilter": "",
+    "Additional": "",
+    "CCEmail": "",
+    "r__folder_Path": "User-Initiated",
+    "r__email_Name": "NIkTest",
+    "SendDefinitionList": []
+}

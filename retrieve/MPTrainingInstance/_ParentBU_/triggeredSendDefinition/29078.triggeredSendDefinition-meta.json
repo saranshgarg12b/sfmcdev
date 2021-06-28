@@ -1,0 +1,30 @@
+{
+    "CreatedDate": "2017-06-27T07:52:00",
+    "ModifiedDate": "2017-06-27T07:52:00",
+    "CustomerKey": "29078",
+    "Name": "Test Lino Api",
+    "Description": "Test Lino Api",
+    "Keyword": "",
+    "SendClassification": {
+        "CustomerKey": "Default Commercial"
+    },
+    "FromName": "Make Positive",
+    "FromAddress": "info@makepositive.com",
+    "SuppressTracking": "false",
+    "TriggeredSendType": "Continuous",
+    "TriggeredSendStatus": "Active",
+    "AutoAddSubscribers": "true",
+    "AutoUpdateSubscribers": "false",
+    "BatchInterval": "0",
+    "BccEmail": "",
+    "EmailSubject": "First API Test",
+    "DynamicEmailSubject": "First API Test",
+    "IsMultipart": "false",
+    "IsWrapped": "true",
+    "AllowedSlots": "0",
+    "NewSlotTrigger": "0",
+    "Priority": "4",
+    "r__folder_Path": "Triggered Sends/Lino",
+    "r__email_Name": "001 Lino",
+    "r__list_PathName": "my subscribers/All Subscribers"
+}

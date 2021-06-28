@@ -1,0 +1,11 @@
+{
+    "name": "Get Journeys",
+    "key": "a2c252ef-595a-4b66-8070-7a055fd8ef8a",
+    "description": "",
+    "targetKey": "8AEE78CB-D3EF-47A1-83B1-936B82611FFA",
+    "createdDate": "2021-02-16T05:53:32.227",
+    "modifiedDate": "2021-02-16T05:53:32.227",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query/White Hat"
+}

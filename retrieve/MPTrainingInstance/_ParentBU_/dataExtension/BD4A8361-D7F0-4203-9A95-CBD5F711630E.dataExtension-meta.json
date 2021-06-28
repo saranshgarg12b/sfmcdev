@@ -1,0 +1,33 @@
+{
+    "CreatedDate": "2016-04-03T06:22:55.74",
+    "CustomerKey": "BD4A8361-D7F0-4203-9A95-CBD5F711630E",
+    "Name": "JL_Gender_Count",
+    "Description": "",
+    "IsSendable": "false",
+    "IsTestable": "false",
+    "RowBasedRetention": "false",
+    "ResetRetentionPeriodOnImport": "false",
+    "DeleteAtEndOfRetentionPeriod": "false",
+    "RetainUntil": "",
+    "Fields": [
+        {
+            "Name": "Gender",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "2",
+            "IsRequired": "true",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Gender_count",
+            "Scale": "0",
+            "DefaultValue": "",
+            "IsRequired": "true",
+            "IsPrimaryKey": "false",
+            "FieldType": "Number"
+        }
+    ],
+    "r__folder_ContentType": "dataextension",
+    "r__folder_Path": "Data Extensions/z_archive"
+}

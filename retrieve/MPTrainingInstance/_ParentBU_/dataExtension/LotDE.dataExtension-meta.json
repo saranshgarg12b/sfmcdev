@@ -1,0 +1,141 @@
+{
+    "CreatedDate": "2016-03-31T02:33:47.297",
+    "CustomerKey": "LotDE",
+    "Name": "LotDE",
+    "Description": "",
+    "IsSendable": "false",
+    "IsTestable": "false",
+    "RowBasedRetention": "false",
+    "ResetRetentionPeriodOnImport": "false",
+    "DeleteAtEndOfRetentionPeriod": "false",
+    "RetainUntil": "",
+    "Fields": [
+        {
+            "Name": "LotId",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "36",
+            "IsRequired": "true",
+            "IsPrimaryKey": "true",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "auctionId",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "36",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "lotNumber",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "20",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "title",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "250",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "shortDescription",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "300",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "lowEstimate",
+            "Scale": "2",
+            "DefaultValue": "",
+            "MaxLength": "18",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Decimal"
+        },
+        {
+            "Name": "highEstimate",
+            "Scale": "2",
+            "DefaultValue": "",
+            "MaxLength": "18",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Decimal"
+        },
+        {
+            "Name": "sold",
+            "Scale": "0",
+            "DefaultValue": "",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Number"
+        },
+        {
+            "Name": "hammerPrice",
+            "Scale": "2",
+            "DefaultValue": "",
+            "MaxLength": "18",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Decimal"
+        },
+        {
+            "Name": "winningBidderId",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "36",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "status",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "1000",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "saleLocation",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "1000",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "firstLotImage",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "255",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Temp_Status",
+            "Scale": "0",
+            "DefaultValue": "TRUE",
+            "MaxLength": "10",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        }
+    ],
+    "r__folder_ContentType": "dataextension",
+    "r__folder_Path": "Data Extensions/ATG Media"
+}

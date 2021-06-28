@@ -1,0 +1,77 @@
+<table
+    cellpadding="0"
+    cellspacing="0"
+    width="100%"
+    role="presentation"
+    class="stylingblock-content-wrapper"
+    style="min-width: 100%"
+>
+    <tr>
+        <td class="stylingblock-content-margin-cell" style="padding: 10px">
+            <table
+                cellpadding="0"
+                cellspacing="0"
+                width="100%"
+                role="presentation"
+                style="background-color: transparent; border: 1px double #c9c9c9; min-width: 100%"
+                class="stylingblock-content-wrapper"
+            >
+                <tr>
+                    <td style="padding: 20px" class="stylingblock-content-wrapper camarker-inner">
+                        <style>
+                            body {
+                                font-family: Helvetica, Arial;
+                                font-weight: normal;
+                            }
+                        </style>
+                        <script runat="server">
+                            Platform.Load('Core', '1');
+
+                            var mydebugger = true;
+                            if (mydebugger) {
+                                Write('<h1>');
+                                Write('This is Test');
+                                Write('</h1>');
+                                Write('<br>');
+                                Write('<br>');
+                            }
+                            var t = Template.Init('6b6affa9-d779-47eb-af23-4d769f689f53');
+
+                            var getTemplate = Template.Retrieve();
+
+                            for (var i = 0; i < getTemplate.length; i++) {
+                                var id = getTemplate[i].ID;
+                                var IDSpecified = getTemplate[i].IDSpecified;
+                                var CustomerKey = getTemplate[i].CustomerKey;
+                                var TemplateName = getTemplate[i].TemplateName;
+
+                                if (mydebugger) {
+                                    Write('<b>ID: </b>');
+                                    Write(id);
+                                    Write('<br>');
+                                    Write('<b>IDSpecified: </b>');
+                                    Write(IDSpecified);
+                                    Write('<br>');
+                                    Write('<b>CustomerKey: </b>');
+                                    Write(CustomerKey);
+                                    Write('<br>');
+                                    Write('<b>TemplateName: </b>');
+                                    Write(TemplateName);
+                                    Write('<br>');
+                                    Write('<hr>');
+                                    Write('<hr>');
+                                    Write('<br>');
+                                }
+                            }
+                            Write(
+                                "<div style='border: 2px solid red; width: 800px; overflow: scroll;word-wrap: break-word; height: 500px;'>" +
+                                    Stringify(getTemplate[1]) +
+                                    '</div>'
+                            );
+                        </script>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>

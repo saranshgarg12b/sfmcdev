@@ -1,0 +1,11 @@
+{
+    "name": "Email Sent",
+    "key": "572ea40f-ebc6-4c7e-a2b8-4f0ed67c283a",
+    "description": "",
+    "targetKey": "474E07E2-948C-4363-9357-86861A8810C7",
+    "createdDate": "2017-10-06T05:13:16.417",
+    "modifiedDate": "2017-10-06T07:34:32.043",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

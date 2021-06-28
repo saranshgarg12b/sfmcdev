@@ -1,0 +1,42 @@
+{
+    "CreatedDate": "2016-10-29T04:37:48.99",
+    "CustomerKey": "F0F415B1-C69D-4F10-B004-486E7739CA21",
+    "Name": "RikkeSQL1",
+    "Description": "",
+    "IsSendable": "false",
+    "IsTestable": "false",
+    "RowBasedRetention": "false",
+    "ResetRetentionPeriodOnImport": "false",
+    "DeleteAtEndOfRetentionPeriod": "false",
+    "RetainUntil": "",
+    "Fields": [
+        {
+            "Name": "ID",
+            "Scale": "0",
+            "DefaultValue": "",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Number"
+        },
+        {
+            "Name": "President",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "100",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Party",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "100",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        }
+    ],
+    "r__folder_ContentType": "dataextension",
+    "r__folder_Path": "Data Extensions/Rikke Demo"
+}

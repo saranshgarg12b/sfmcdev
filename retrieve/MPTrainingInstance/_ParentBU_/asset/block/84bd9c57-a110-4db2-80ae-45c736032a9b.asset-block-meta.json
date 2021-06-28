@@ -1,0 +1,29 @@
+{
+    "customerKey": "84bd9c57-a110-4db2-80ae-45c736032a9b",
+    "assetType": {
+        "name": "textblock",
+        "displayName": "Text Block"
+    },
+    "name": "RSPB - Triplet title",
+    "owner": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "createdDate": "2017-06-23T06:35:48.757-06:00",
+    "createdBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "modifiedDate": "2017-06-23T06:38:46.427-06:00",
+    "modifiedBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "tags": [],
+    "design": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"background-color: #f4f4f2; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 10px; padding-right: 20px; padding-bottom: 0px; padding-left: 20px;\"><div></div></div>",
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder/002 RSPB"
+}

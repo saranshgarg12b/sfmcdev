@@ -1,0 +1,27 @@
+{
+    "customerKey": "082bb08c-6154-4b76-9347-23f4ec12a1b3",
+    "assetType": {
+        "name": "htmlblock",
+        "displayName": "HTML Block"
+    },
+    "name": "RSPB - html contentblock test",
+    "owner": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "createdDate": "2017-06-15T04:30:54.917-06:00",
+    "createdBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "modifiedDate": "2017-06-15T05:52:13.77-06:00",
+    "modifiedBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder/002 RSPB"
+}

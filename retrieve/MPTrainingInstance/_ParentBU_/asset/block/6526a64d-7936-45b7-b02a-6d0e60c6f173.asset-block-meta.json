@@ -1,0 +1,104 @@
+{
+    "customerKey": "6526a64d-7936-45b7-b02a-6d0e60c6f173",
+    "assetType": {
+        "name": "layoutblock",
+        "displayName": "Layout"
+    },
+    "name": "RSPB - Footer T&C",
+    "owner": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "createdDate": "2017-06-15T10:22:25.33-06:00",
+    "createdBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "modifiedDate": "2017-06-15T10:24:29.173-06:00",
+    "modifiedBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "content": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"background-color: #f4f4f2; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; \"><table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%;\"><tr><td><table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%;\"><tr><td class=\"responsive-td\" valign=\"top\" style=\"width: 100%; padding-bottom: 3px;\"><div data-type=\"slot\" data-key=\"jp7fnocdfhk\"></div></td></tr></table></td></tr><tr><td><table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%;\"><tr><td class=\"responsive-td\" valign=\"top\" style=\"width: 100%; padding-top: 3px;\"><div data-type=\"slot\" data-key=\"bbsvxfk7bbu\"></div></td></tr></table></td></tr></table></div>",
+    "design": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"background-color: #f4f4f2; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;\"><div></div></div>",
+    "meta": {
+        "options": {
+            "layout": {
+                "key": "one_column",
+                "spacing": 6,
+                "css": {
+                    "padding": 10
+                },
+                "layoutClass": "contentlayouts-empty",
+                "rows": [
+                    {
+                        "columns": [
+                            {
+                                "width": 100,
+                                "slot": "jp7fnocdfhk"
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "width": 100,
+                                "slot": "bbsvxfk7bbu"
+                            }
+                        ]
+                    }
+                ],
+                "selected": true
+            }
+        }
+    },
+    "slots": {
+        "jp7fnocdfhk": {
+            "thumbnail": {},
+            "content": "<div data-type=\"block\" data-key=\"av99ofspiq8\" data-original-key=\"none\"></div><div data-type=\"block\" data-key=\"ei8sy64sxho\" data-original-key=\"none\"></div><div data-type=\"block\" data-key=\"s4gprfvjeh\" data-original-key=\"none\"></div>",
+            "design": "<p style=\"font-family: arial; color: #CCCCCC; font-size: 12px; font-weight: bold; text-align: center; display: flex; flex-direction: column; justify-content: center; height: 150px; padding: 10px; margin: 0; border: 1px dashed #CCCCCC;\">Drop blocks or content here</p>",
+            "blocks": {
+                "av99ofspiq8": {
+                    "assetType": {
+                        "id": 196,
+                        "name": "textblock"
+                    },
+                    "content": "<div data-marker=\"wrapper\" class=\"stylingblock-content-wrapper\" style=\"\"><span style=\"padding: 0px 0px 15px; color: rgb(65, 64, 66); line-height: 14px; font-family: arial, sans-serif; font-size: 10px; white-space: normal;\">You have received this e-mail because the e-mail address&nbsp;%%emailaddr%%&nbsp;is subscribed to RSPB&nbsp;e-mails.</span></div>",
+                    "design": "<div class=\"default-design\" style=\"height:150px; overflow:hidden;\"><p class=\"textblock\" style=\"margin:0; padding:0; overflow:hidden; display:block;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vestibulum nunc feugiat porta consectetur. Sed vehicula vel ante suscipit sagittis. Ut metus metus, feugiat ut laoreet blandit, viverra non mi. Phasellus convallis, mauris ac vehicula posuere, ligula magna mattis ipsum, in sollicitudin nibh lacus eget sapien. Mauris ultricies laoreet ex, a viverra leo ornare eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris commodo scelerisque arcu, id semper sem pharetra vel. Sed ut erat auctor lectus pretium blandit gravida vitae enim. Nullam eget ex et enim molestie porttitor. Duis vitae est fringilla, placerat nisi condimentum, tristique purus. Fusce lobortis mauris quis iaculis ultrices. In tempor ligula ac ex tempor rutrum. Pellentesque quis convallis mi.<br/><br/>Duis mattis, ex a hendrerit ullamcorper, eros massa consectetur elit, vel lobortis justo arcu ac mi magna, blandit sit amet eros id, dapibus cursus justo. Suspendisse mauris odio, aliquet ut ligula in, porta mollis risus. Ut ultrices lectus dolor, sed euismod nulla ultrices ac. Phasellus laoreet ultricies facilisis. Fusce imperdiet maximus ipsum vitae rutrum. Maecenas faucibus vestibulum lorem sit amet varius. Vivamus et ultricies ligula. Mauris semper scelerisque ante id fermentum. Curabitur non odio pellentesque, consectetur odio eu, commodo risus. Mauris egestas elit vel ipsum sagittis fermentum. Cras varius quam ac enim eleifend, eu porttitor odio finibus. Aenean quis finibus dolor. Nunc bibendum aliquam auctor.</p></div>",
+                    "modelVersion": 2
+                },
+                "ei8sy64sxho": {
+                    "assetType": {
+                        "id": 196,
+                        "name": "textblock"
+                    },
+                    "content": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n\t\n\t\t<tr>\n\t\t\t<td align=\"left\" style=\"padding: 0px 0px 15px; color: rgb(220, 217, 213); font-family: arial, sans-serif; font-size: 10px; font-weight: bold; white-space: normal;\"><span class=\"etm\" data-etm=\"F0-unsubscribe:link:11\"><a href=\"http://pages.email.rspb.org.uk/rspb_unsubscribe/?sk=%%_subscriberkey%%&e=%%emailaddr%%&c=ENWS&l=%%listid%%&j=%%jobid%%&b=%%_JobSubscriberBatchID%%&ds=CACI&sup=ENWS&er=%%_subscriberkey%%&xyz\" style=\"color: rgb(90, 36, 90); text-decoration: none;\" target=\"_blank\">Unsubscribe</a></span> &nbsp;|&nbsp; <a href=\"http://www.rspb.org.uk/help/privacy.aspx?xyz\" style=\"color: rgb(90, 36, 90); text-decoration: none;\" target=\"_blank\">Privacy policy</a> &nbsp;|&nbsp; <a href=\"https://www.rspb.org.uk/contactus?xyz\" style=\"color: rgb(90, 36, 90); text-decoration: none;\" target=\"_blank\">Contact us</a> &nbsp;|&nbsp; <a href=\"http://www.rspb.org.uk/applications/plus?xyz\" style=\"color: rgb(90, 36, 90); text-decoration: none; white-space: nowrap;\" target=\"_blank\">Join our mailing list</a></td>\n\t\t</tr>\n\t\n</table>\n</div>",
+                    "design": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;\"><div class=\"default-design\" style=\"height:150px; overflow:hidden;\"><p class=\"textblock\" style=\"margin:0; padding:0; overflow:hidden; display:block;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vestibulum nunc feugiat porta consectetur. Sed vehicula vel ante suscipit sagittis. Ut metus metus, feugiat ut laoreet blandit, viverra non mi. Phasellus convallis, mauris ac vehicula posuere, ligula magna mattis ipsum, in sollicitudin nibh lacus eget sapien. Mauris ultricies laoreet ex, a viverra leo ornare eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris commodo scelerisque arcu, id semper sem pharetra vel. Sed ut erat auctor lectus pretium blandit gravida vitae enim. Nullam eget ex et enim molestie porttitor. Duis vitae est fringilla, placerat nisi condimentum, tristique purus. Fusce lobortis mauris quis iaculis ultrices. In tempor ligula ac ex tempor rutrum. Pellentesque quis convallis mi.<br><br>Duis mattis, ex a hendrerit ullamcorper, eros massa consectetur elit, vel lobortis justo arcu ac mi magna, blandit sit amet eros id, dapibus cursus justo. Suspendisse mauris odio, aliquet ut ligula in, porta mollis risus. Ut ultrices lectus dolor, sed euismod nulla ultrices ac. Phasellus laoreet ultricies facilisis. Fusce imperdiet maximus ipsum vitae rutrum. Maecenas faucibus vestibulum lorem sit amet varius. Vivamus et ultricies ligula. Mauris semper scelerisque ante id fermentum. Curabitur non odio pellentesque, consectetur odio eu, commodo risus. Mauris egestas elit vel ipsum sagittis fermentum. Cras varius quam ac enim eleifend, eu porttitor odio finibus. Aenean quis finibus dolor. Nunc bibendum aliquam auctor.</p></div></div>",
+                    "modelVersion": 2
+                },
+                "s4gprfvjeh": {
+                    "assetType": {
+                        "id": 196,
+                        "name": "textblock"
+                    },
+                    "content": "<div data-marker=\"wrapper\" class=\"stylingblock-content-wrapper\" style=\"\"><span style=\"color: rgb(65, 64, 66); line-height: 14px; font-family: arial, sans-serif; font-size: 10px; white-space: normal;\"> The Royal Society for the Protection of Birds. The Lodge, Sandy, Bedfordshire SG19 2DL Tel: 01767 680551. Registered charity: England and Wales: 207076, Scotland: SC037654. </span></div>",
+                    "design": "<div class=\"default-design\" style=\"height:150px; overflow:hidden;\"><p class=\"textblock\" style=\"margin:0; padding:0; overflow:hidden; display:block;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vestibulum nunc feugiat porta consectetur. Sed vehicula vel ante suscipit sagittis. Ut metus metus, feugiat ut laoreet blandit, viverra non mi. Phasellus convallis, mauris ac vehicula posuere, ligula magna mattis ipsum, in sollicitudin nibh lacus eget sapien. Mauris ultricies laoreet ex, a viverra leo ornare eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris commodo scelerisque arcu, id semper sem pharetra vel. Sed ut erat auctor lectus pretium blandit gravida vitae enim. Nullam eget ex et enim molestie porttitor. Duis vitae est fringilla, placerat nisi condimentum, tristique purus. Fusce lobortis mauris quis iaculis ultrices. In tempor ligula ac ex tempor rutrum. Pellentesque quis convallis mi.<br/><br/>Duis mattis, ex a hendrerit ullamcorper, eros massa consectetur elit, vel lobortis justo arcu ac mi magna, blandit sit amet eros id, dapibus cursus justo. Suspendisse mauris odio, aliquet ut ligula in, porta mollis risus. Ut ultrices lectus dolor, sed euismod nulla ultrices ac. Phasellus laoreet ultricies facilisis. Fusce imperdiet maximus ipsum vitae rutrum. Maecenas faucibus vestibulum lorem sit amet varius. Vivamus et ultricies ligula. Mauris semper scelerisque ante id fermentum. Curabitur non odio pellentesque, consectetur odio eu, commodo risus. Mauris egestas elit vel ipsum sagittis fermentum. Cras varius quam ac enim eleifend, eu porttitor odio finibus. Aenean quis finibus dolor. Nunc bibendum aliquam auctor.</p></div>",
+                    "modelVersion": 2
+                }
+            },
+            "modelVersion": 2
+        },
+        "bbsvxfk7bbu": {
+            "thumbnail": {},
+            "content": "",
+            "design": "<p style=\"font-family: arial; color: #CCCCCC; font-size: 12px; font-weight: bold; text-align: center; display: flex; flex-direction: column; justify-content: center; height: 150px; padding: 10px; margin: 0; border: 1px dashed #CCCCCC;\">Drop blocks or content here</p>",
+            "blocks": {},
+            "modelVersion": 2
+        }
+    },
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder/002 RSPB"
+}

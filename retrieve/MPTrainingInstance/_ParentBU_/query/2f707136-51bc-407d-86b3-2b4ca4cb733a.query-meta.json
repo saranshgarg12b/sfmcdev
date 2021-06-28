@@ -1,0 +1,11 @@
+{
+    "name": "SubscriberID",
+    "key": "2f707136-51bc-407d-86b3-2b4ca4cb733a",
+    "description": "",
+    "targetKey": "5778AB5B-1989-4C58-9F54-2DA385EBC4A4",
+    "createdDate": "2017-02-16T01:08:30.22",
+    "modifiedDate": "2017-02-16T01:10:05.45",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

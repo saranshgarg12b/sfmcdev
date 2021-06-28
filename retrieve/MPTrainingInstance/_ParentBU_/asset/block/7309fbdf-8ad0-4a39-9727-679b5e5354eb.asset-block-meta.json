@@ -1,0 +1,28 @@
+{
+    "customerKey": "7309fbdf-8ad0-4a39-9727-679b5e5354eb",
+    "assetType": {
+        "name": "textblock",
+        "displayName": "Text Block"
+    },
+    "name": "RSPB - Text",
+    "owner": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "createdDate": "2017-06-15T08:01:48.63-06:00",
+    "createdBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "modifiedDate": "2017-06-23T06:57:04.943-06:00",
+    "modifiedBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "design": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"background-color: #FFFFFF; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px;\"><div></div></div>",
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}

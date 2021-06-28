@@ -1,0 +1,70 @@
+{
+    "CreatedDate": "2021-02-16T05:34:16.99",
+    "CustomerKey": "27C18AB7-E42C-4568-85B5-B32258C169BA",
+    "Name": "JourneyActivities",
+    "Description": "",
+    "IsSendable": "false",
+    "IsTestable": "false",
+    "RowBasedRetention": "false",
+    "ResetRetentionPeriodOnImport": "false",
+    "DeleteAtEndOfRetentionPeriod": "false",
+    "RetainUntil": "",
+    "Fields": [
+        {
+            "Name": "VersionID",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "36",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "ActivityID",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "36",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "ActivityName",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "200",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "ActivityExternalKey",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "200",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "JourneyActivityObjectID",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "36",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "ActivityType",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "512",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        }
+    ],
+    "r__folder_ContentType": "dataextension",
+    "r__folder_Path": "Data Extensions/White Hat"
+}

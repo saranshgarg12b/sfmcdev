@@ -1,0 +1,11 @@
+{
+    "name": "lotcategory",
+    "key": "6faabd21-ee3c-429f-a3a6-bb1ad2076353",
+    "description": "",
+    "targetKey": "34AA9C05-FD74-4174-A589-D2609DBC7904",
+    "createdDate": "2017-01-12T14:23:23.017",
+    "modifiedDate": "2017-01-12T14:23:23.017",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

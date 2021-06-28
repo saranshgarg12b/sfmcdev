@@ -1,0 +1,28 @@
+{
+    "customerKey": "d33cb4d9-3914-45fe-be64-053434658a04",
+    "assetType": {
+        "name": "textblock",
+        "displayName": "Text Block"
+    },
+    "name": "RSPB - Quick Links Title",
+    "owner": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "createdDate": "2017-06-15T08:39:14.74-06:00",
+    "createdBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "modifiedDate": "2017-06-15T08:41:07.633-06:00",
+    "modifiedBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "design": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"background-color: #FFFFFF; border-top: 5px solid #017ACA; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 20px; padding-bottom: 0px; padding-left: 20px;\"><div></div></div>",
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder/002 RSPB"
+}

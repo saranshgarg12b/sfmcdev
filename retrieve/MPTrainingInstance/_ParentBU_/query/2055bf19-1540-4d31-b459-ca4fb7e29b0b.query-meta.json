@@ -1,0 +1,11 @@
+{
+    "name": "Kim test query",
+    "key": "2055bf19-1540-4d31-b459-ca4fb7e29b0b",
+    "description": "",
+    "targetKey": "B2FA7E7B-3E83-4B17-91A6-AD701E855CFE",
+    "createdDate": "2016-04-01T03:43:39.417",
+    "modifiedDate": "2016-04-01T03:43:39.417",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

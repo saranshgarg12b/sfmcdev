@@ -1,0 +1,11 @@
+{
+    "name": "Email Open",
+    "key": "91cc7204-66c6-4ebf-9727-e353360aebf4",
+    "description": "",
+    "targetKey": "55945112-775B-4288-8500-66176B1972AD",
+    "createdDate": "2017-07-25T09:49:01.713",
+    "modifiedDate": "2017-10-24T14:56:32.353",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Scoring PoC"
+}

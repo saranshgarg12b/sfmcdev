@@ -1,0 +1,5 @@
+{
+    "name": "FTP Import",
+    "locationTypeId": 2,
+    "locationUrl": "ftp.s7.exacttarget.com/Import"
+}

@@ -1,0 +1,30 @@
+{
+    "customerKey": "fa048712-d918-42c0-8a66-b931cf70813b",
+    "assetType": {
+        "name": "socialfollowblock",
+        "displayName": "Social Follow Block"
+    },
+    "name": "RSPB - Social Follow",
+    "owner": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "createdDate": "2017-06-19T06:48:37.277-06:00",
+    "createdBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "modifiedDate": "2017-06-19T07:27:10.987-06:00",
+    "modifiedBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "tags": [],
+    "content": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"background-color: #F4F4F2; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 5px; padding-right: 0px; padding-bottom: 20px; padding-left: 0px; \"><table cellpadding=\"0\" cellspacing=\"0\" class=\"socialshare-wrapper\" width=\"100%\"><tr><td><table cellpadding=\"0\" cellspacing=\"0\" align=\"center\"><tr><td align=\"center\"><!--[if mso]><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td style=\"padding-right:10px;\"><![endif]--><table class=\"socialshare-innertable\" style=\"display: inline-block\"><tr><td style=\"padding:5px 10px\"><a href=\"\" alias=\"facebook follow\"><img src=\"http://image.s4.exct.net/lib/fe911573736c007d7d/m/2/e76b988d-8feb-4d15-b8d9-1ccf4bee17cd.png\" alt=\"Facebook\" width=\"24\" height=\"24\" style=\"display: block;; width: 24px !important; height: 24px !important\"></a></td><td style=\"padding-right: 10px;\"><a href=\"\" alias=\"facebook follow\" style=\"text-decoration: none; text-decoration: none; text-decoration: none; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #333333;\">Facebook</a></td></tr></table><!--[if mso]></td><td style=\"padding-right:10px;\"><![endif]--><table class=\"socialshare-innertable\" style=\"display: inline-block\"><tr><td style=\"padding:5px 10px\"><a href=\"\" alias=\"twitter follow\"><img src=\"http://image.s4.exct.net/lib/fe911573736c007d7d/m/2/f071eec4-5672-4190-b5c4-03c64fd3f5bd.png\" alt=\"Twitter\" width=\"24\" height=\"24\" style=\"display: block;; width: 24px !important; height: 24px !important\"></a></td><td style=\"padding-right: 10px;\"><a href=\"\" alias=\"twitter follow\" style=\"text-decoration: none; text-decoration: none; text-decoration: none; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #333333;\">Twitter</a></td></tr></table><!--[if mso]></td><td style=\"padding-right:10px;\"><![endif]--><table class=\"socialshare-innertable\" style=\"display: inline-block\"><tr><td style=\"padding:5px 10px\"><a href=\"\" alias=\"instagram follow\"><img src=\"http://image.s4.exct.net/lib/fe911573736c007d7d/m/2/a52c2f3b-22ab-4dfc-ad5e-c4b50bec5650.png\" alt=\"Instagram\" width=\"24\" height=\"24\" style=\"display: block;; width: 24px !important; height: 24px !important\"></a></td><td style=\"padding-right: 10px;\"><a href=\"\" alias=\"instagram follow\" style=\"text-decoration: none; text-decoration: none; text-decoration: none; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #333333;\">Instagram</a></td></tr></table><!--[if mso]></td><td><![endif]--><table class=\"socialshare-innertable\" style=\"display: inline-block\"><tr><td style=\"padding:5px 10px\"><a href=\"\" alias=\"pinterest follow\"><img src=\"http://image.s4.exct.net/lib/fe911573736c007d7d/m/2/23e506de-1872-4b15-bc53-4678e591b3d8.png\" alt=\"Pinterest\" width=\"24\" height=\"24\" style=\"display: block;; width: 24px !important; height: 24px !important\"></a></td><td style=\"padding-right: 10px;\"><a href=\"\" alias=\"pinterest follow\" style=\"text-decoration: none; text-decoration: none; text-decoration: none; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #333333;\">Pinterest</a></td></tr></table><!--[if mso]></td></tr></table><![endif]--></td></tr></table></td></tr></table></div>",
+    "design": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"background-color: #F4F4F2; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 5px; padding-right: 0px; padding-bottom: 20px; padding-left: 0px;\"><div></div></div>",
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder/002 RSPB"
+}

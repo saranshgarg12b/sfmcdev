@@ -1,0 +1,43 @@
+{
+    "CreatedDate": "2017-01-12T14:22:45.797",
+    "CustomerKey": "34AA9C05-FD74-4174-A589-D2609DBC7904",
+    "Name": "lotcategoryshared",
+    "Description": "",
+    "IsSendable": "false",
+    "IsTestable": "false",
+    "RowBasedRetention": "false",
+    "ResetRetentionPeriodOnImport": "false",
+    "DeleteAtEndOfRetentionPeriod": "false",
+    "RetainUntil": "",
+    "Fields": [
+        {
+            "Name": "CategoryName",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "500",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Platform",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "8",
+            "IsRequired": "true",
+            "IsPrimaryKey": "true",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "LotId",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "36",
+            "IsRequired": "true",
+            "IsPrimaryKey": "true",
+            "FieldType": "Text"
+        }
+    ],
+    "r__folder_ContentType": "shared_dataextension",
+    "r__folder_Path": "Shared Items/Shared Data Extensions"
+}

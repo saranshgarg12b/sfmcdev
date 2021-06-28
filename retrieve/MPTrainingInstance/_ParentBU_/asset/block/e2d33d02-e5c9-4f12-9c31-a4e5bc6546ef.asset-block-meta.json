@@ -1,0 +1,79 @@
+{
+    "customerKey": "e2d33d02-e5c9-4f12-9c31-a4e5bc6546ef",
+    "assetType": {
+        "name": "abtestblock",
+        "displayName": "A/B Test Block"
+    },
+    "fileProperties": {
+        "fileName": "Test AB Send for Journey Emails"
+    },
+    "name": "Test AB Send for Journey Emails",
+    "owner": {
+        "email": "saransh.garg@makepositive.com",
+        "name": "Saransh Garg"
+    },
+    "createdDate": "2019-08-22T07:23:36.47-06:00",
+    "createdBy": {
+        "email": "saransh.garg@makepositive.com",
+        "name": "Saransh Garg"
+    },
+    "modifiedDate": "2019-08-22T07:48:06.38-06:00",
+    "modifiedBy": {
+        "email": "saransh.garg@makepositive.com",
+        "name": "Saransh Garg"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "content": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\">{{#if [_ABTestVersionID] == \"A\"}}{{= BeginImpressionRegion(\"Test Content for AB Test\")}}<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\">Content #1<br>\n<br>\nSK = %%SubscriberKey%%<br>\nEA =&nbsp;%%EmailAddresss%%<br>\nFN =&nbsp;%%FN%%<br>\nLN =&nbsp;%%LN%%</td></tr></table>{{= EndImpressionRegion()}}{{.else}}{{#if [_ABTestVersionID] == \"B\"}}{{= BeginImpressionRegion(\"Test Content for AB Test 2\")}}<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\">Content #2<br>\n<br>\nSubscriber Key = %%SubscriberKey%%<br>\nEmail Address =&nbsp;%%EmailAddresss%%<br>\nFirst Name =&nbsp;%%FN%%<br>\nLast Name =&nbsp;%%LN%%</td></tr></table>{{= EndImpressionRegion()}}{{.else}}{{= BeginImpressionRegion(\"Test Content for AB Test\")}}<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\">Content #1<br>\n<br>\nSK = %%SubscriberKey%%<br>\nEA =&nbsp;%%EmailAddresss%%<br>\nFN =&nbsp;%%FN%%<br>\nLN =&nbsp;%%LN%%</td></tr></table>{{= EndImpressionRegion()}}{{/if}}{{/if}}</td></tr></table>",
+    "design": "",
+    "superContent": "<div data-marker=\"wrapper\" style=\"\" class=\"stylingblock-content-wrapper\"><table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\">Content #1<br>\n<br>\nSK = %%SubscriberKey%%<br>\nEA =&nbsp;%%EmailAddresss%%<br>\nFN =&nbsp;%%FN%%<br>\nLN =&nbsp;%%LN%%</td></tr></table></div>",
+    "meta": {
+        "wrapperStyles": {
+            "mobile": {
+                "visible": true
+            },
+            "styling": {}
+        },
+        "options": {
+            "abtestData": {
+                "variants": 2,
+                "viewing": {
+                    "id": 236519,
+                    "name": "Test Content for AB Test",
+                    "fileProperties": {
+                        "fileName": "Test Content for AB Test"
+                    },
+                    "content": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\">Content #1<br>\n<br>\nSK = %%SubscriberKey%%<br>\nEA =&nbsp;%%EmailAddresss%%<br>\nFN =&nbsp;%%FN%%<br>\nLN =&nbsp;%%LN%%</td></tr></table>",
+                    "class": "ab-variant-0",
+                    "thumbnail": "data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABkAGQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3C71i0sZ2juCyBUDs+MgAkgcdT0PQVVh8U6RcSxRRXDM8r7EHlOMnOPSr8+oWdtMsU86LIcYU9Tk8fmQfypZL2zhkVJJ4lZiQAWHUDJH5UANsdQh1BWaFZAFx99dp5HHHX86t1SGrads8z7ZBtMYl3bxjaehqSW/s4QpkuoV3EKMuOSTgfrQBZoqr/aVl5/k/aovMC7iA3QdMn0pP7VsN+z7ZDu8zy8bx97GcfXFAFuiiigAooooAKKKKACiiigDB1iB5r8E6Sl4iohVycEHd82DkcgDI98VLfQ3DxOqaTbSxtI29Cwy/Ta/+OeeKra2libuVriO4eURRj90RuC5c5UdeD19vbNP1EWe0tLFf4WVszJn90SO2f4T04BFAFC4tZHuH+0+Fop/mBJjZRubuwJPTgdgah+zTSJI58IIMFjGjOud3y4PXocHn2FLs0rE/7m/DIsamEkb4BhjhR1wO+M9fTIq1ZLp8d9AEh1G1dWVAG+7ET/yy78Hr3HuKAI4LQbAX8JIhDMAElXpuOOPoAfy9KsfZrkqok0G3aMRlGG8bjGT9zn+IdT29K6WigBAAAABgCloooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//Z"
+                },
+                "abtest": [
+                    {
+                        "id": 236519,
+                        "name": "Test Content for AB Test",
+                        "fileProperties": {
+                            "fileName": "Test Content for AB Test"
+                        },
+                        "content": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\">Content #1<br>\n<br>\nSK = %%SubscriberKey%%<br>\nEA =&nbsp;%%EmailAddresss%%<br>\nFN =&nbsp;%%FN%%<br>\nLN =&nbsp;%%LN%%</td></tr></table>",
+                        "class": "ab-variant-0",
+                        "thumbnail": "data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABkAGQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3C71i0sZ2juCyBUDs+MgAkgcdT0PQVVh8U6RcSxRRXDM8r7EHlOMnOPSr8+oWdtMsU86LIcYU9Tk8fmQfypZL2zhkVJJ4lZiQAWHUDJH5UANsdQh1BWaFZAFx99dp5HHHX86t1SGrads8z7ZBtMYl3bxjaehqSW/s4QpkuoV3EKMuOSTgfrQBZoqr/aVl5/k/aovMC7iA3QdMn0pP7VsN+z7ZDu8zy8bx97GcfXFAFuiiigAooooAKKKKACiiigDB1iB5r8E6Sl4iohVycEHd82DkcgDI98VLfQ3DxOqaTbSxtI29Cwy/Ta/+OeeKra2libuVriO4eURRj90RuC5c5UdeD19vbNP1EWe0tLFf4WVszJn90SO2f4T04BFAFC4tZHuH+0+Fop/mBJjZRubuwJPTgdgah+zTSJI58IIMFjGjOud3y4PXocHn2FLs0rE/7m/DIsamEkb4BhjhR1wO+M9fTIq1ZLp8d9AEh1G1dWVAG+7ET/yy78Hr3HuKAI4LQbAX8JIhDMAElXpuOOPoAfy9KsfZrkqok0G3aMRlGG8bjGT9zn+IdT29K6WigBAAAABgCloooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//Z"
+                    },
+                    {
+                        "id": 236520,
+                        "name": "Test Content for AB Test 2",
+                        "fileProperties": {
+                            "fileName": "Test Content for AB Test 2"
+                        },
+                        "content": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\">Content #2<br>\n<br>\nSubscriber Key = %%SubscriberKey%%<br>\nEmail Address =&nbsp;%%EmailAddresss%%<br>\nFirst Name =&nbsp;%%FN%%<br>\nLast Name =&nbsp;%%LN%%</td></tr></table>",
+                        "class": "ab-variant-1",
+                        "thumbnail": "data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABkAGQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3C71i0sZ2juCyBUDs+MgAkgcdT0PQVVh8U6RcSxRRXDM8r7EHlOMnOPStCe+s7d2We4ijZE3tvbGF9f0/SiS+soQpkuYV3EKuXHJJwP1oAjsNTg1Hf5AYbACd4wec4yOo6dwO1XarNf2aSIhuI98pIUA5yR16elOe9tY4TM9xEIwpctvGMAZJoAnoqp/alhlh9riyrKp+boW6fnT0v7SRWZLqEqpKkhxwRwaALFFUzq2niBJvtkJjfG0hs5ycDj68U6TUbKJwkl1ErkMQpYZ+Xr+VAFqio4ZoriFZYZFkjYZVlOQRUlABRRRQAUUUUAc9rcBmvl8zQl1GIRrtYEBgcnPJPbA/OqSWfmx+ZJ4VVMTn90WXITaPm64yWx+ANXNZ/s+PUfOurm6t5VWIBoG5YZfAwBnGev4VnXT6ZHbwySXGqwL5C7btDlyCcjOATu57jofTNAEltbytB5c3hJEVG3KqSqBllAY4/Aj6VrCGa3t1a10mBQmGCM43EMCXVfQ5wOuDVXSnspYsw3uq3Y85QDKX+VgDx0Hy+vas+ZNKMLo8Wp2ykLERkAR56xZ5GP4j29DQBPNBcKUSTw1BOiqzHymXBLNnAJP55HUcVBHatvdV8ICOFeAGddzAg+h9dvH160+SPTfOuG+xX4yxUNERtYk/cXHGH49vUg5rotJ8n7APs7zNHuYATfeTBxt+g6UAc5bWZMZ87whGhGFG2RckYU/zz+Qq2trcBGCaBbiORg+x5AT8pzz/ALRJJB6etdNRQBBaQxQw5jgEBkPmOgA4Y9c471PRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf//Z"
+                    }
+                ]
+            }
+        }
+    },
+    "availableViews": [],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}

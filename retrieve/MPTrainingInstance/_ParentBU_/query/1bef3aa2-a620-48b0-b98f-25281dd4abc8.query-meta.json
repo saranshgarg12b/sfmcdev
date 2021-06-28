@@ -1,0 +1,11 @@
+{
+    "name": "001 Delete",
+    "key": "1bef3aa2-a620-48b0-b98f-25281dd4abc8",
+    "description": "",
+    "targetKey": "DADE10BF-8BE4-47F8-8EB0-3665E5D74B48",
+    "createdDate": "2017-12-13T04:55:20.327",
+    "modifiedDate": "2018-06-29T01:25:54.14",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

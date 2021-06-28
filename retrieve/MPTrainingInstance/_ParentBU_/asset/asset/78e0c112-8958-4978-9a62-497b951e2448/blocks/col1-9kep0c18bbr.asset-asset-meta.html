@@ -1,0 +1,29 @@
+<table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><script runat="server" type="text/javascript">
+    Platform.Load("core","1"); 
+    try {
+</script>
+
+%%[    
+     //Retrieve the parameters from the query string
+     Set @classid = RequestParameter('class_id')
+     Set @memberid = RequestParameter('member_id')   
+
+     //Lookup the values to populate the page
+     Set @membername = Lookup('Member', 'First Name', 'Member Id', @memberid)
+     Set @class = Row(LookupRows('Classes', 'Class Id', @classid), 1)
+     Set @center = Row(LookupRows('Clubs', 'Club Id', Field(@class, 'Club Id')), 1) 
+     Set @classcenter = Field(@center, 'Name') 
+     Set @classname = Field(@class, 'Name')
+     Set @classdate = Field(@class, 'Date')
+     Set @classtype = Field(@class, 'Type')
+     Set @classteacher = Field(@class, 'Teacher Name') 
+]%%
+
+<script type="text/javascript" runat="server">
+    }
+    catch (e) {
+    
+      Write("<br>e: " + e);
+    
+    }
+</script> </td></tr></table>

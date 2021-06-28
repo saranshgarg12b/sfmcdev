@@ -1,0 +1,11 @@
+{
+    "name": "Get Email Activities from Active Version of the Correct Journey",
+    "key": "0cd998f7-d6f6-4352-b9f6-b0a7aa43fed0",
+    "description": "",
+    "targetKey": "7E7E28F4-3362-4F88-965A-C46922F1F0E6",
+    "createdDate": "2021-02-16T06:12:55.773",
+    "modifiedDate": "2021-02-16T06:12:55.773",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query/White Hat"
+}

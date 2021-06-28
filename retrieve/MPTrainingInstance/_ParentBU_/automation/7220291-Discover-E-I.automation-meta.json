@@ -1,0 +1,403 @@
+{
+    "name": "Make Positive-762-7220291-E-I",
+    "key": "7220291-Discover-E-I",
+    "type": "scheduled",
+    "status": "Ready",
+    "schedule": {},
+    "steps": [
+        {
+            "name": "Common step #1 for export-import",
+            "description": "Auto generated step task",
+            "step": 1,
+            "activities": [
+                {
+                    "name": "Extract-Import stats.DeviceIDClickLookup",
+                    "displayOrder": 1,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import stats.DeviceIDOpenLookup",
+                    "displayOrder": 2,
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Common step #2 for export-import",
+            "description": "Auto generated step task",
+            "step": 2,
+            "activities": [
+                {
+                    "name": "Extract-Import stats.Bounce",
+                    "displayOrder": 1,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import stats.BounceDecrementQueue",
+                    "displayOrder": 2,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import stats.Click",
+                    "displayOrder": 3,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import stats.Complaint",
+                    "displayOrder": 4,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import stats.Conversion",
+                    "displayOrder": 5,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import stats.FTAF",
+                    "displayOrder": 6,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import stats.FTAFRecipient",
+                    "displayOrder": 7,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import stats.FTAFSubscriber",
+                    "displayOrder": 8,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import stats.Open",
+                    "displayOrder": 9,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import stats.Reply",
+                    "displayOrder": 10,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import stats.SurveyResponse",
+                    "displayOrder": 11,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import stats.Unsubscribe",
+                    "displayOrder": 12,
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Common step #3 for export-import",
+            "description": "Auto generated step task",
+            "step": 3,
+            "activities": [
+                {
+                    "name": "Extract-Import dbo.ABTestSendJob",
+                    "displayOrder": 1,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import stats.Send",
+                    "displayOrder": 2,
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Common step #4 for export-import",
+            "description": "Auto generated step task",
+            "step": 4,
+            "activities": [
+                {
+                    "name": "Extract-Import dbo.JobCampaignDefinition",
+                    "displayOrder": 1,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.JobEmailAddress",
+                    "displayOrder": 2,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.JobListSource",
+                    "displayOrder": 3,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.SendJob",
+                    "displayOrder": 4,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.tblJobs_Lists",
+                    "displayOrder": 5,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.tblJobs_Surveys",
+                    "displayOrder": 6,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.tblJobSubscriberBatch",
+                    "displayOrder": 7,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.TriggeredSendJob",
+                    "displayOrder": 8,
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Common step #5 for export-import",
+            "description": "Auto generated step task",
+            "step": 5,
+            "activities": [
+                {
+                    "name": "Extract-Import dbo.ABTestSendContent",
+                    "displayOrder": 1,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.tblJobs",
+                    "displayOrder": 2,
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Common step #6 for export-import",
+            "description": "Auto generated step task",
+            "step": 6,
+            "activities": [
+                {
+                    "name": "Extract-Import dbo.BuildOutputCustomObject",
+                    "displayOrder": 1,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.EmailSendDefinition",
+                    "displayOrder": 2,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.SendGroup",
+                    "displayOrder": 3,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.tblEmailContents",
+                    "displayOrder": 4,
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Common step #7 for export-import",
+            "description": "Auto generated step task",
+            "step": 7,
+            "activities": [
+                {
+                    "name": "Extract-Import dbo.ABTestSend",
+                    "displayOrder": 1,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.AudienceSegmentDefinition",
+                    "displayOrder": 2,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.BuildAudienceDefinition",
+                    "displayOrder": 3,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.CustomObject_1",
+                    "displayOrder": 4,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.InteractionInstance",
+                    "displayOrder": 5,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.SendList",
+                    "displayOrder": 6,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.SendSegment",
+                    "displayOrder": 7,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.SendSplit",
+                    "displayOrder": 8,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.tblContent",
+                    "displayOrder": 9,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.tblEmails",
+                    "displayOrder": 10,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.tblMemberEmployee",
+                    "displayOrder": 11,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.tblSurveyAnswers",
+                    "displayOrder": 12,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.TriggeredSend",
+                    "displayOrder": 13,
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Common step #8 for export-import",
+            "description": "Auto generated step task",
+            "step": 8,
+            "activities": [
+                {
+                    "name": "Extract-Import C7220291.DSVRConfig",
+                    "displayOrder": 1,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import C7220291.DSVRConfigCustom",
+                    "displayOrder": 2,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import C7220291.tblLists",
+                    "displayOrder": 3,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.AudienceDefinition",
+                    "displayOrder": 4,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.CampaignDefinition",
+                    "displayOrder": 5,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.CustomObject",
+                    "displayOrder": 6,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.EnterpriseTimeZone",
+                    "displayOrder": 7,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.Interaction",
+                    "displayOrder": 8,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.Send",
+                    "displayOrder": 9,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.tblCategories",
+                    "displayOrder": 10,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.tblSurveyQuestions",
+                    "displayOrder": 11,
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Common step #9 for export-import",
+            "description": "Auto generated step task",
+            "step": 9,
+            "activities": [
+                {
+                    "name": "Extract-Import C7220291.DSVRConfigObject",
+                    "displayOrder": 1,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import C7220291.tblMembers",
+                    "displayOrder": 2,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.SendDefType",
+                    "displayOrder": 3,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.SendGroupType",
+                    "displayOrder": 4,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.SourceAddress",
+                    "displayOrder": 5,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import dbo.TestJobType",
+                    "displayOrder": 6,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import stats.DeviceDetailsLookup",
+                    "displayOrder": 7,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import Stats.RefererEmailClient",
+                    "displayOrder": 8,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import Stats.UserAgentApplication",
+                    "displayOrder": 9,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import Stats.UserAgentDevice",
+                    "displayOrder": 10,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import Stats.UserAgentEmailClient",
+                    "displayOrder": 11,
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Import Stats.UserAgentOperatingSystem",
+                    "displayOrder": 12,
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations"
+}

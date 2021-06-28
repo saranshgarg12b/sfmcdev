@@ -1,0 +1,27 @@
+## TestDE
+
+**Description:** n/a
+
+**Folder:** Data Extensions/z_archive/
+
+**Fields in table:** 13
+
+**Sendable:** Yes (`SubscriberKey` to `_SubscriberKey`)
+
+**Testable:** No
+
+| Name | FieldType | MaxLength | IsPrimaryKey | IsNullable | DefaultValue |
+| --- | --- | --- | --- | --- | --- |
+| Email | EmailAddress | 254 | - | - |  |
+| First | Text | 50 | - | - |  |
+| Last | Text | 50 | - | - |  |
+| Gender | Text | 2 | - | - |  |
+| SubscriberKey | Text | 50 | + | - |  |
+| Goal_8 | Boolean |  | - | - |  |
+| Goal_17 | Boolean |  | - | - |  |
+| Goal_33 | Boolean |  | - | - |  |
+| Goal_42 | Boolean |  | - | - |  |
+| Goal_58 | Boolean |  | - | - |  |
+| Goal_67 | Boolean |  | - | - |  |
+| Goal_83 | Boolean |  | - | - |  |
+| Goal_92 | Boolean |  | - | - |  |

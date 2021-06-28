@@ -1,0 +1,37 @@
+{
+    "customerKey": "30f457ba-0825-4197-adac-d5a43568d10f",
+    "assetType": {
+        "name": "htmlblock",
+        "displayName": "HTML Block"
+    },
+    "name": "DynamicContentArvind",
+    "owner": {
+        "email": "mp.support@makepositive.com",
+        "name": "Support Team"
+    },
+    "createdDate": "2019-04-13T10:10:46.693-06:00",
+    "createdBy": {
+        "email": "mp.support@makepositive.com",
+        "name": "Support Team"
+    },
+    "modifiedDate": "2019-04-13T11:03:19.863-06:00",
+    "modifiedBy": {
+        "email": "mp.support@makepositive.com",
+        "name": "Support Team"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "design": "",
+    "meta": {
+        "wrapperStyles": {
+            "mobile": {
+                "visible": true
+            },
+            "styling": {}
+        }
+    },
+    "availableViews": [],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}

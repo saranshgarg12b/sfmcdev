@@ -1,0 +1,31 @@
+{
+    "CreatedDate": "2017-05-06T11:26:00",
+    "ModifiedDate": "2017-05-06T11:36:00",
+    "CustomerKey": "26668",
+    "Name": "001 orer inc data in 1 api",
+    "Description": "001 orer inc data in 1 api",
+    "Keyword": "",
+    "SendClassification": {
+        "CustomerKey": "Default Commercial"
+    },
+    "FromName": "Make Positive",
+    "FromAddress": "info@makepositive.com",
+    "SuppressTracking": "false",
+    "TriggeredSendType": "Continuous",
+    "TriggeredSendStatus": "Active",
+    "AutoAddSubscribers": "true",
+    "AutoUpdateSubscribers": "false",
+    "BatchInterval": "0",
+    "BccEmail": "",
+    "EmailSubject": "Thanks for your order",
+    "DynamicEmailSubject": "Thanks for your order",
+    "IsMultipart": "true",
+    "IsWrapped": "true",
+    "AllowedSlots": "0",
+    "NewSlotTrigger": "0",
+    "Priority": "4",
+    "r__folder_Path": "Triggered Sends",
+    "r__assetMessage_Name": "13042017_LS order confirmation",
+    "r__assetMessage_Key": "c893bfed-87c3-4ff3-9330-f4291a7bb8bc",
+    "r__list_PathName": "my subscribers/All Subscribers"
+}

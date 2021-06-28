@@ -1,0 +1,11 @@
+{
+    "name": "Email Click",
+    "key": "591cfbeb-29d8-41e8-b6e3-ad3407304db2",
+    "description": "",
+    "targetKey": "55945112-775B-4288-8500-66176B1972AD",
+    "createdDate": "2017-07-25T10:00:46.237",
+    "modifiedDate": "2017-10-24T14:56:32.307",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Scoring PoC"
+}

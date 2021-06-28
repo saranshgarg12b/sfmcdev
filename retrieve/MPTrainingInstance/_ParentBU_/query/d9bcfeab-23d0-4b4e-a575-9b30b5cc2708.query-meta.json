@@ -1,0 +1,11 @@
+{
+    "name": "SBS Contact Update",
+    "key": "d9bcfeab-23d0-4b4e-a575-9b30b5cc2708",
+    "description": "",
+    "targetKey": "D2179C0F-BFE2-4E30-BE07-5FF3F91799F5",
+    "createdDate": "2017-03-27T10:45:48.24",
+    "modifiedDate": "2017-03-29T10:44:49.12",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

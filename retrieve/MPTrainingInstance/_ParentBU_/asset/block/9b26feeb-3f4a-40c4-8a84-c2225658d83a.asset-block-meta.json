@@ -1,0 +1,28 @@
+{
+    "customerKey": "9b26feeb-3f4a-40c4-8a84-c2225658d83a",
+    "assetType": {
+        "name": "textblock",
+        "displayName": "Text Block"
+    },
+    "name": "RSPB - Footer Info text",
+    "owner": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "createdDate": "2017-06-15T09:50:40.063-06:00",
+    "createdBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "modifiedDate": "2017-06-15T09:50:46.517-06:00",
+    "modifiedBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "design": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"background-color: #007DC3; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 15px; padding-right: 20px; padding-bottom: 15px; padding-left: 20px;\"><div></div></div>",
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder/002 RSPB"
+}

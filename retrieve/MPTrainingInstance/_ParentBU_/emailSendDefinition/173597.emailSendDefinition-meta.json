@@ -1,0 +1,42 @@
+{
+    "CreatedDate": "2017-02-14T05:07:10.683",
+    "ModifiedDate": "2017-02-16T08:42:54.08",
+    "CustomerKey": "173597",
+    "Name": "Conversion tracking",
+    "Description": "",
+    "SendClassification": {
+        "CustomerKey": "Default Commercial"
+    },
+    "SenderProfile": {
+        "CustomerKey": "Default"
+    },
+    "DeliveryProfile": {
+        "CustomerKey": "Default"
+    },
+    "SuppressTracking": "false",
+    "IsSendLogging": "true",
+    "SendDefinitionList": [
+        {
+            "SendDefinitionListType": "SourceList",
+            "DataSourceTypeID": "CustomObject",
+            "IsTestObject": "false",
+            "SalesForceObjectID": "",
+            "Name": "",
+            "r__dataExtension_Key": "F1A9F930-3A0C-4421-A307-072AE947444A",
+            "r__list_PathName": "my subscribers/All Subscribers"
+        }
+    ],
+    "BccEmail": "",
+    "AutoBccEmail": "",
+    "TestEmailAddr": "",
+    "EmailSubject": "This is my conversion email....",
+    "DynamicEmailSubject": "This is my conversion email....",
+    "IsMultipart": "true",
+    "IsWrapped": "true",
+    "DeduplicateByEmail": "false",
+    "ExclusionFilter": "",
+    "Additional": "",
+    "CCEmail": "",
+    "r__folder_Path": "User-Initiated",
+    "r__email_Name": "111 Conversion Tracking"
+}

@@ -1,0 +1,30 @@
+<table style="; " class="stylingblock-content-wrapper" cellpadding="0" cellspacing="0" width="100%"><tr><td class="camarker-inner stylingblock-content-wrapper"><h1 style="text-align: center; font-family : arial,helvetica,sans-serif; font-size : 28px; color : #808080; line-height : 1; font-weight : bold; font-style : normal; ">
+	Welcome to our newsletter</h1><div>
+	Dear %%FirstName%%,</div><div style="text-align: center;">
+	&nbsp;</div><div>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis nisl in turpis sodales luctus aliquet at quam. Fusce quis enim placerat lectus mattis auctor vel quis mauris. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed quis suscipit diam, nec lacinia neque. Nunc iaculis non arcu eget volutpat.</div>&nbsp;<br>
+<br>
+<br>
+&nbsp;<table border="0" cellpadding="0" cellspacing="0" height="auto" style="border-bottom:2px solid #c2c2c2;" width="100%">
+	
+		<tr>
+			<td width="80">
+				Product ID</td><td width="80">
+				Description</td><td align="center" width="80">
+				Image</td><td align="center" width="80">
+				Quantity</td><td align="center" width="80">
+				Price</td><td align="center" width="80">
+				Total</td></tr></table><br>
+<br>
+%%[ var @rows, @row, @rowCount, @OrderNumber var @SubscriberKey set @SubscriberKey = SubscriberKey set @OrderNumber = OrderNumber set @rows = LookupRows("13042017 orders LS products", "OrderNumber", @OrderNumber) set @rowCount = rowcount(@rows) if @rowCount > 0 then for @i = 1 to @rowCount do var @ProductID, @DEColumn2 set @row = row(@rows,@i) /* get row #1 */ set @ProductID = field(@row,"ProductID") set @ProductName = field(@row,"ProductName") set @OrderNumber = field(@row,"OrderNumber") set @ProductDescription = Field(@row,"Description") set @ProductIMG = Field(@row,"ProductIMG") set @ProductURL = Field(@row,"ProductURL") set @Quantity = Field(@row,"Quantity") set @Price = Field(@row,"Price") set @Total = Field(@row,"Total") set @OrderNumber = Field(@row,"OrderNumber") ]%%<table border="0" cellpadding="0" cellspacing="0" height="auto" width="100%">
+	
+		<tr>
+			<td style="border-bottom:2px solid #c2c2c2; padding-top:5px;" valign="top" width="80">
+				%%=v(@ProductID)=%%</td><td style="border-bottom:2px solid #c2c2c2; padding-top:5px;" valign="top" width="80">
+				%%=v(@ProductName)=%%<br>
+				<br>
+				%%=v(@ProductDescription)=%%</td><td style="border-bottom:2px solid #c2c2c2; padding-top:5px;" valign="top" width="80">
+				<a href="%%=v(@ProductIMG)=%%"><img src="%%=v(@ProductIMG)=%%" width="80"></a></td><td align="center" style="border-bottom:2px solid #c2c2c2; padding-top:5px;" valign="middle" width="80">
+				%%=v(@Quantity)=%%</td><td align="center" style="border-bottom:2px solid #c2c2c2; padding-top:5px;" valign="middle" width="80">
+				%%=v(@Price)=%%</td><td align="center" style="border-bottom:2px solid #c2c2c2; padding-top:5px;" valign="middle" width="80">
+				%%=v(@Total)=%%</td></tr></table> %%[next @i]%% %%[ else ]%% No rows found %%[ endif ]%%</td></tr></table>

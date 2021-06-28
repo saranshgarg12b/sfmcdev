@@ -1,0 +1,11 @@
+{
+    "name": "Get JourneyActivities",
+    "key": "8feef5dd-0df5-4ea5-8e3a-7db8de21f68b",
+    "description": "",
+    "targetKey": "27C18AB7-E42C-4568-85B5-B32258C169BA",
+    "createdDate": "2021-02-16T05:39:34.393",
+    "modifiedDate": "2021-02-16T05:42:46.613",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query/White Hat"
+}

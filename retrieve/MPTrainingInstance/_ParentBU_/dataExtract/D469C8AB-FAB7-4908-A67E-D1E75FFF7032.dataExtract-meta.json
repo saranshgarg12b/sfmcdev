@@ -1,0 +1,39 @@
+{
+    "name": "Crohns Extract",
+    "key": "D469C8AB-FAB7-4908-A67E-D1E75FFF7032",
+    "fileSpec": "offline_data.csv",
+    "createdDate": "2017-09-12T13:53:13.85",
+    "modifiedDate": "2017-09-12T13:53:13.85",
+    "createdBy": 7599753,
+    "modifiedBy": 7599753,
+    "intervalType": 0,
+    "description": "",
+    "dataFields": [
+        {
+            "name": "ColumnDelimiter",
+            "type": "string",
+            "value": ","
+        },
+        {
+            "name": "DECustomerKey",
+            "type": "string",
+            "value": "EB800323-BA92-4DED-A623-B7611BC6FD43"
+        },
+        {
+            "name": "HasColumnHeaders",
+            "type": "bool",
+            "value": "True"
+        },
+        {
+            "name": "TextQualified",
+            "type": "bool",
+            "value": "True"
+        },
+        {
+            "name": "UsesLineFeed",
+            "type": "bool",
+            "value": "True"
+        }
+    ],
+    "r__dataExtractType_name": "Data Extension Extract"
+}

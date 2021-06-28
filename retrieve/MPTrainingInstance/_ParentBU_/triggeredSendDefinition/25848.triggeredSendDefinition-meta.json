@@ -1,0 +1,34 @@
+{
+    "CreatedDate": "2017-04-19T06:57:00",
+    "ModifiedDate": "2017-04-19T06:57:00",
+    "CustomerKey": "25848",
+    "Name": "13042017 Order Email LS",
+    "Description": "13042017 Order Email LS",
+    "Keyword": "",
+    "SendClassification": {
+        "CustomerKey": "Default Commercial"
+    },
+    "SenderProfile": {
+        "CustomerKey": "124"
+    },
+    "FromName": "Make Positive",
+    "FromAddress": "info@makepositive.com",
+    "SuppressTracking": "false",
+    "TriggeredSendType": "Continuous",
+    "TriggeredSendStatus": "New",
+    "AutoAddSubscribers": "true",
+    "AutoUpdateSubscribers": "false",
+    "BatchInterval": "0",
+    "BccEmail": "",
+    "EmailSubject": "Thanks for your order",
+    "DynamicEmailSubject": "Thanks for your order",
+    "IsMultipart": "false",
+    "IsWrapped": "true",
+    "AllowedSlots": "0",
+    "NewSlotTrigger": "0",
+    "Priority": "4",
+    "r__folder_Path": "Triggered Sends",
+    "r__assetMessage_Name": "13042017_LS order confirmation",
+    "r__assetMessage_Key": "c893bfed-87c3-4ff3-9330-f4291a7bb8bc",
+    "r__list_PathName": "my subscribers/All Subscribers"
+}

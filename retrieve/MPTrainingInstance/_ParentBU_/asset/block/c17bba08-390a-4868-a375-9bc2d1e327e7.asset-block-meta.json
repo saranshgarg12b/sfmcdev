@@ -1,0 +1,92 @@
+{
+    "customerKey": "c17bba08-390a-4868-a375-9bc2d1e327e7",
+    "assetType": {
+        "name": "layoutblock",
+        "displayName": "Layout"
+    },
+    "name": "RSPB - Quick links",
+    "owner": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "createdDate": "2017-06-15T08:37:02.51-06:00",
+    "createdBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "modifiedDate": "2017-06-28T07:04:40.413-06:00",
+    "modifiedBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "content": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"background-color: #FFFFFF; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 10px; padding-right: 20px; padding-bottom: 25px; padding-left: 20px; \"><table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%;\"><tr><td><table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%;\"><tr><td class=\"responsive-td\" valign=\"top\" style=\"width: 50%; padding-right: 3px;\"><div data-type=\"slot\" data-key=\"rgxsasxoflj\"></div></td><td class=\"responsive-td\" valign=\"top\" style=\"width: 50%; padding-left: 3px;\"><div data-type=\"slot\" data-key=\"zvg9i98datl\"></div></td></tr></table></td></tr></table></div>",
+    "design": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"background-color: #FFFFFF; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 10px; padding-right: 20px; padding-bottom: 25px; padding-left: 20px;\"><div></div></div>",
+    "meta": {
+        "options": {
+            "layout": {
+                "key": "two_column",
+                "spacing": 6,
+                "css": {
+                    "padding": 10
+                },
+                "layoutClass": "contentlayouts-empty",
+                "rows": [
+                    {
+                        "columns": [
+                            {
+                                "width": 50,
+                                "slot": "rgxsasxoflj"
+                            },
+                            {
+                                "width": 50,
+                                "slot": "zvg9i98datl"
+                            }
+                        ]
+                    }
+                ],
+                "selected": true
+            }
+        }
+    },
+    "slots": {
+        "rgxsasxoflj": {
+            "thumbnail": {},
+            "content": "<div data-type=\"block\" data-key=\"q0z1pve6sv\" data-original-key=\"none\"></div>",
+            "design": "<p style=\"font-family: arial; color: #CCCCCC; font-size: 12px; font-weight: bold; text-align: center; display: flex; flex-direction: column; justify-content: center; height: 150px; padding: 10px; margin: 0; border: 1px dashed #CCCCCC;\">Drop blocks or content here</p>",
+            "blocks": {
+                "q0z1pve6sv": {
+                    "assetType": {
+                        "id": 196,
+                        "name": "textblock"
+                    },
+                    "content": "<div data-marker=\"wrapper\" class=\"stylingblock-content-wrapper\" style=\"\"><ul style=\"margin-top: 0; margin-bottom: 0; line-height: 30px;color: #5A245A !important;\">\n\t<li>\n\t\t<b><a alias=\"\" conversion=\"false\" data-linkto=\"http://\" href=\"http://#\" style=\"color:#5A245A;text-decoration:none;\" title=\"\">Contact Us</a></b></li><li>\n\t\t<b><a alias=\"\" conversion=\"false\" data-linkto=\"http://\" href=\"http://#\" style=\"color:#5A245A;text-decoration:none;\" title=\"\">Online Community</a></b></li><li>\n\t\t<b><a alias=\"\" conversion=\"false\" data-linkto=\"http://\" href=\"http://#\" style=\"color:#5A245A;text-decoration:none;\" title=\"\">Webshop</a></b></li></ul></div>",
+                    "design": "<div class=\"default-design\" style=\"height:150px; overflow:hidden;\"><p class=\"textblock\" style=\"margin:0; padding:0; overflow:hidden; display:block;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vestibulum nunc feugiat porta consectetur. Sed vehicula vel ante suscipit sagittis. Ut metus metus, feugiat ut laoreet blandit, viverra non mi. Phasellus convallis, mauris ac vehicula posuere, ligula magna mattis ipsum, in sollicitudin nibh lacus eget sapien. Mauris ultricies laoreet ex, a viverra leo ornare eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris commodo scelerisque arcu, id semper sem pharetra vel. Sed ut erat auctor lectus pretium blandit gravida vitae enim. Nullam eget ex et enim molestie porttitor. Duis vitae est fringilla, placerat nisi condimentum, tristique purus. Fusce lobortis mauris quis iaculis ultrices. In tempor ligula ac ex tempor rutrum. Pellentesque quis convallis mi.<br/><br/>Duis mattis, ex a hendrerit ullamcorper, eros massa consectetur elit, vel lobortis justo arcu ac mi magna, blandit sit amet eros id, dapibus cursus justo. Suspendisse mauris odio, aliquet ut ligula in, porta mollis risus. Ut ultrices lectus dolor, sed euismod nulla ultrices ac. Phasellus laoreet ultricies facilisis. Fusce imperdiet maximus ipsum vitae rutrum. Maecenas faucibus vestibulum lorem sit amet varius. Vivamus et ultricies ligula. Mauris semper scelerisque ante id fermentum. Curabitur non odio pellentesque, consectetur odio eu, commodo risus. Mauris egestas elit vel ipsum sagittis fermentum. Cras varius quam ac enim eleifend, eu porttitor odio finibus. Aenean quis finibus dolor. Nunc bibendum aliquam auctor.</p></div>",
+                    "modelVersion": 2
+                }
+            },
+            "modelVersion": 2
+        },
+        "zvg9i98datl": {
+            "thumbnail": {},
+            "content": "<div data-type=\"block\" data-key=\"kd63dqzprpa\" data-original-key=\"none\"></div>",
+            "design": "<p style=\"font-family: arial; color: #CCCCCC; font-size: 12px; font-weight: bold; text-align: center; display: flex; flex-direction: column; justify-content: center; height: 150px; padding: 10px; margin: 0; border: 1px dashed #CCCCCC;\">Drop blocks or content here</p>",
+            "blocks": {
+                "kd63dqzprpa": {
+                    "assetType": {
+                        "id": 196,
+                        "name": "textblock"
+                    },
+                    "content": "<div data-marker=\"wrapper\" class=\"stylingblock-content-wrapper\" style=\"\"><ul style=\"margin-top: 0; margin-bottom: 0; line-height: 30px;\">\n\t<li>\n\t\t<b><a alias=\"\" conversion=\"false\" data-linkto=\"http://\" href=\"http://google.com\" style=\"color: rgb(90, 36, 90); text-decoration: none;\" title=\"\">RSPB Vacancies</a></b></li><li>\n\t\t<b><a alias=\"\" conversion=\"false\" data-linkto=\"http://\" href=\"http://google.com\" style=\"color: rgb(90, 36, 90); text-decoration: none;\" title=\"\">Press &amp; Media</a></b></li></ul></div>",
+                    "design": "<div class=\"default-design\" style=\"height:150px; overflow:hidden;\"><p class=\"textblock\" style=\"margin:0; padding:0; overflow:hidden; display:block;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vestibulum nunc feugiat porta consectetur. Sed vehicula vel ante suscipit sagittis. Ut metus metus, feugiat ut laoreet blandit, viverra non mi. Phasellus convallis, mauris ac vehicula posuere, ligula magna mattis ipsum, in sollicitudin nibh lacus eget sapien. Mauris ultricies laoreet ex, a viverra leo ornare eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris commodo scelerisque arcu, id semper sem pharetra vel. Sed ut erat auctor lectus pretium blandit gravida vitae enim. Nullam eget ex et enim molestie porttitor. Duis vitae est fringilla, placerat nisi condimentum, tristique purus. Fusce lobortis mauris quis iaculis ultrices. In tempor ligula ac ex tempor rutrum. Pellentesque quis convallis mi.<br/><br/>Duis mattis, ex a hendrerit ullamcorper, eros massa consectetur elit, vel lobortis justo arcu ac mi magna, blandit sit amet eros id, dapibus cursus justo. Suspendisse mauris odio, aliquet ut ligula in, porta mollis risus. Ut ultrices lectus dolor, sed euismod nulla ultrices ac. Phasellus laoreet ultricies facilisis. Fusce imperdiet maximus ipsum vitae rutrum. Maecenas faucibus vestibulum lorem sit amet varius. Vivamus et ultricies ligula. Mauris semper scelerisque ante id fermentum. Curabitur non odio pellentesque, consectetur odio eu, commodo risus. Mauris egestas elit vel ipsum sagittis fermentum. Cras varius quam ac enim eleifend, eu porttitor odio finibus. Aenean quis finibus dolor. Nunc bibendum aliquam auctor.</p></div>",
+                    "modelVersion": 2
+                }
+            },
+            "modelVersion": 2
+        }
+    },
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder/002 RSPB"
+}

@@ -1,0 +1,101 @@
+{
+    "customerKey": "49b0fb88-207a-4753-b3dd-82af9751b7b3",
+    "assetType": {
+        "name": "layoutblock",
+        "displayName": "Layout"
+    },
+    "name": "RSPB - text with button",
+    "owner": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "createdDate": "2017-06-14T06:28:29.873-06:00",
+    "createdBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "modifiedDate": "2017-06-26T03:19:30.863-06:00",
+    "modifiedBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "content": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"background-color: #FFFFFF; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; \"><table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%;\"><tr><td><table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%;\"><tr><td class=\"responsive-td\" valign=\"top\" style=\"width: 100%;\"><div data-type=\"slot\" data-key=\"99ure23eq59\"></div></td></tr></table></td></tr></table></div>",
+    "design": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"background-color: #FFFFFF; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px;\"><div></div></div>",
+    "meta": {
+        "options": {
+            "layout": {
+                "key": "onecolumn_text_button_centeralign",
+                "css": {
+                    "padding-top": 10,
+                    "padding-right": 10,
+                    "padding-left": 10
+                },
+                "spacing": 10,
+                "rows": [
+                    {
+                        "columns": [
+                            {
+                                "width": 100,
+                                "blocks": [
+                                    {
+                                        "type": "textblock",
+                                        "align": "center",
+                                        "blockClass": "contentlayouts-topmost contentlayouts-fullbar",
+                                        "css": {
+                                            "padding-bottom": 10
+                                        }
+                                    },
+                                    {
+                                        "type": "buttonblock",
+                                        "align": "center",
+                                        "css": {
+                                            "padding-bottom": 10
+                                        }
+                                    }
+                                ],
+                                "slot": "99ure23eq59"
+                            }
+                        ]
+                    }
+                ],
+                "selected": true
+            }
+        }
+    },
+    "slots": {
+        "99ure23eq59": {
+            "thumbnail": {},
+            "content": "<div data-type=\"block\" data-key=\"djhgw0ixas8\" data-original-key=\"none\"></div><div data-type=\"block\" data-key=\"99ure23eq59oo3vzhsu5b\"></div>",
+            "design": "<p style=\"font-family: arial; color: #CCCCCC; font-size: 12px; font-weight: bold; text-align: center; display: flex; flex-direction: column; justify-content: center; height: 150px; padding: 10px; margin: 0; border: 1px dashed #CCCCCC;\">Drop blocks or content here</p>",
+            "blocks": {
+                "99ure23eq59oo3vzhsu5b": {
+                    "assetType": {
+                        "id": 212,
+                        "name": "buttonblock"
+                    },
+                    "content": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 20px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; \"><table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td align=\"center\"><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td class=\"innertd buttonblock\" bgcolor=\"#017ACA\" style=\" border-radius: 0px; -moz-border-radius: 0px; -webkit-border-radius: 0px; background-color: #017ACA;\"><a target=\"_blank\" class=\"buttonstyles btn-blue\" style=\" text-decoration: none; display: block; font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #FFFFFF; padding-top: 11px; padding-right: 40px; padding-bottom: 12px; padding-left: 17px; border-color: transparent; border-style: solid; border-width: 0px; border-radius: 0px; -moz-border-radius: 0px; -webkit-border-radius: 0px;\" href=\"http://#\" title=\"\" alias=\"\" conversion=\"false\" data-linkto=\"http://\">This is a button..</a></td></tr></table></td></tr></table></div>",
+                    "design": "<div class=\"stylingblock-content-wrapper\" data-marker=\"wrapper\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 20px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px;\"><div></div></div>",
+                    "meta": {
+                        "align": "center"
+                    },
+                    "modelVersion": 2
+                },
+                "djhgw0ixas8": {
+                    "assetType": {
+                        "id": 196,
+                        "name": "textblock"
+                    },
+                    "content": "<div data-marker=\"wrapper\" class=\"stylingblock-content-wrapper\" style=\"\"><h2 style=\"\">\n\tHeadline goes here in 22pt Arial</h2><p>\n\tThis body copy style is 14px regular. Lorem ipsum dolor sit amet Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque.</p><h3 style=\"\">\n\tSub-heading style</h3><p>\n\tNullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero. Vivamus pharetra posuere sapien. Nam consectetuer.</p></div>",
+                    "design": "<div class=\"default-design\" style=\"height:150px; overflow:hidden;\"><p class=\"textblock\" style=\"margin:0; padding:0; overflow:hidden; display:block;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vestibulum nunc feugiat porta consectetur. Sed vehicula vel ante suscipit sagittis. Ut metus metus, feugiat ut laoreet blandit, viverra non mi. Phasellus convallis, mauris ac vehicula posuere, ligula magna mattis ipsum, in sollicitudin nibh lacus eget sapien. Mauris ultricies laoreet ex, a viverra leo ornare eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris commodo scelerisque arcu, id semper sem pharetra vel. Sed ut erat auctor lectus pretium blandit gravida vitae enim. Nullam eget ex et enim molestie porttitor. Duis vitae est fringilla, placerat nisi condimentum, tristique purus. Fusce lobortis mauris quis iaculis ultrices. In tempor ligula ac ex tempor rutrum. Pellentesque quis convallis mi.<br/><br/>Duis mattis, ex a hendrerit ullamcorper, eros massa consectetur elit, vel lobortis justo arcu ac mi magna, blandit sit amet eros id, dapibus cursus justo. Suspendisse mauris odio, aliquet ut ligula in, porta mollis risus. Ut ultrices lectus dolor, sed euismod nulla ultrices ac. Phasellus laoreet ultricies facilisis. Fusce imperdiet maximus ipsum vitae rutrum. Maecenas faucibus vestibulum lorem sit amet varius. Vivamus et ultricies ligula. Mauris semper scelerisque ante id fermentum. Curabitur non odio pellentesque, consectetur odio eu, commodo risus. Mauris egestas elit vel ipsum sagittis fermentum. Cras varius quam ac enim eleifend, eu porttitor odio finibus. Aenean quis finibus dolor. Nunc bibendum aliquam auctor.</p></div>",
+                    "modelVersion": 2
+                }
+            },
+            "modelVersion": 2
+        }
+    },
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder/002 RSPB"
+}

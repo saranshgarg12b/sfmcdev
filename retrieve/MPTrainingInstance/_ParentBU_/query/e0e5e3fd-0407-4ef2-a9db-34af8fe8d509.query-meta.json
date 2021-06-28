@@ -1,0 +1,11 @@
+{
+    "name": "JOB",
+    "key": "e0e5e3fd-0407-4ef2-a9db-34af8fe8d509",
+    "description": "",
+    "targetKey": "5830179F-1744-4066-AE48-1EBE4B45A702",
+    "createdDate": "2017-03-21T08:20:28.19",
+    "modifiedDate": "2017-03-21T08:20:28.19",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

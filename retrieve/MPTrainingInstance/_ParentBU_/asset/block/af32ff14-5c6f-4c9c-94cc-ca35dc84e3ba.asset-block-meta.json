@@ -1,0 +1,40 @@
+{
+    "customerKey": "af32ff14-5c6f-4c9c-94cc-ca35dc84e3ba",
+    "assetType": {
+        "name": "freeformblock",
+        "displayName": "Free Form Block"
+    },
+    "fileProperties": {
+        "fileName": "Test Content for AB Test"
+    },
+    "name": "Test Content for AB Test",
+    "owner": {
+        "email": "saransh.garg@makepositive.com",
+        "name": "Saransh Garg"
+    },
+    "createdDate": "2019-08-22T07:40:26.99-06:00",
+    "createdBy": {
+        "email": "saransh.garg@makepositive.com",
+        "name": "Saransh Garg"
+    },
+    "modifiedDate": "2019-08-22T07:40:29.53-06:00",
+    "modifiedBy": {
+        "email": "saransh.garg@makepositive.com",
+        "name": "Saransh Garg"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "design": "",
+    "meta": {
+        "wrapperStyles": {
+            "mobile": {
+                "visible": true
+            },
+            "styling": {}
+        }
+    },
+    "availableViews": [],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}

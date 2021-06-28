@@ -1,0 +1,46 @@
+{
+    "customerKey": "e05eafe7-f739-4ac0-8981-396da8d9d337",
+    "assetType": {
+        "name": "htmlblock",
+        "displayName": "HTML Block"
+    },
+    "fileProperties": {
+        "fileName": "Test SSJS: Add Template to DE"
+    },
+    "name": "Test SSJS: Add Template to DE",
+    "owner": {
+        "email": "saransh.garg@makepositive.com",
+        "name": "Saransh Garg"
+    },
+    "createdDate": "2021-02-24T08:46:48.017-06:00",
+    "createdBy": {
+        "email": "saransh.garg@makepositive.com",
+        "name": "Saransh Garg"
+    },
+    "modifiedDate": "2021-02-24T09:40:12.087-06:00",
+    "modifiedBy": {
+        "email": "saransh.garg@makepositive.com",
+        "name": "Saransh Garg"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "design": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" class=\"stylingblock-content-wrapper\" style=\"min-width: 100%; \"><tr><td class=\"stylingblock-content-margin-cell\" style=\"padding: 10px; \"><table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"background-color: transparent; border: 1px double #C9C9C9; min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td style=\"padding: 20px; \" class=\"stylingblock-content-wrapper camarker-inner\"></td></tr></table></td></tr></table>",
+    "meta": {
+        "wrapperStyles": {
+            "mobile": {
+                "visible": true,
+                "columnOrder": "ltr"
+            },
+            "styling": {
+                "background-color": "transparent",
+                "margin": "10px",
+                "padding": "20px",
+                "border": "1px double #C9C9C9"
+            }
+        }
+    },
+    "availableViews": [],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder/White Hat"
+}

@@ -1,0 +1,34 @@
+{
+    "CreatedDate": "2017-04-13T08:32:00",
+    "ModifiedDate": "2017-04-13T08:37:00",
+    "CustomerKey": "25790",
+    "Name": "130417WelcomeEmail_rikke",
+    "Description": "130417WelcomeEmail_rikke",
+    "Keyword": "",
+    "SendClassification": {
+        "CustomerKey": "Default Transactional"
+    },
+    "SenderProfile": {
+        "CustomerKey": "124"
+    },
+    "FromName": "Make Positive",
+    "FromAddress": "kim.hellbom@makepositive.com",
+    "SuppressTracking": "false",
+    "TriggeredSendType": "Continuous",
+    "TriggeredSendStatus": "Active",
+    "AutoAddSubscribers": "true",
+    "AutoUpdateSubscribers": "true",
+    "BatchInterval": "0",
+    "BccEmail": "",
+    "EmailSubject": "Welcome to Newsletter",
+    "DynamicEmailSubject": "Welcome to Newsletter",
+    "IsMultipart": "true",
+    "IsWrapped": "true",
+    "AllowedSlots": "0",
+    "NewSlotTrigger": "0",
+    "Priority": "4",
+    "r__folder_Path": "Triggered Sends",
+    "r__assetMessage_Name": "130417_rikke",
+    "r__assetMessage_Key": "576b4c97-2d45-492a-94ed-d3e3ec1f260d",
+    "r__list_PathName": "my subscribers/All Subscribers"
+}

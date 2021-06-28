@@ -1,0 +1,11 @@
+{
+    "name": "Mobile Push",
+    "key": "c35486e3-2ace-434a-9f0e-550531cce380",
+    "description": "",
+    "targetKey": "FAAC9607-0F1D-4BAE-AF17-536F703E9A2D",
+    "createdDate": "2017-12-08T08:50:54.687",
+    "modifiedDate": "2017-12-08T09:32:43.843",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

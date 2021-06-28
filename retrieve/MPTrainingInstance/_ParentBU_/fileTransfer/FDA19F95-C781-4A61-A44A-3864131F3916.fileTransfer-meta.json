@@ -1,0 +1,16 @@
+{
+    "name": "Positive Contact Attendees",
+    "customerKey": "FDA19F95-C781-4A61-A44A-3864131F3916",
+    "createdDate": "2015-07-16T09:53:51.56",
+    "modifiedDate": "2015-07-16T10:28:24.133",
+    "fileSpec": "Positive_Contact_event_attendees.csv",
+    "isEncrypted": false,
+    "isCompressed": false,
+    "maxFileAge": 0,
+    "maxFileAgeScheduleOffset": 0,
+    "maxImportFrequency": 0,
+    "isUpload": true,
+    "isPgp": false,
+    "isFileSpecLocalized": false,
+    "r__ftpLocation_name": "FTP Import"
+}

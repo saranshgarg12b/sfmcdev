@@ -1,0 +1,39 @@
+{
+    "name": "Lead and Contact Scoring",
+    "description": "",
+    "key": "2391aa2c-9767-ee86-2df1-b14bfafe9056",
+    "type": "scheduled",
+    "status": "PausedSchedule",
+    "schedule": {
+        "typeId": 3,
+        "startDate": "2017-10-25T00:00:00",
+        "endDate": "2017-10-25T00:00:00",
+        "icalRecur": "FREQ=DAILY;COUNT=1;INTERVAL=1",
+        "timezoneName": "GMT Standard Time"
+    },
+    "steps": [
+        {
+            "name": "",
+            "step": 1,
+            "activities": [
+                {
+                    "name": "Email Open",
+                    "displayOrder": 1,
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "step": 2,
+            "activities": [
+                {
+                    "name": "Email Click",
+                    "displayOrder": 1,
+                    "r__type": "query"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations/Rikke"
+}

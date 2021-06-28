@@ -1,0 +1,31 @@
+{
+    "CreatedDate": "2021-02-24T06:16:00",
+    "ModifiedDate": "2021-02-24T06:18:00",
+    "CustomerKey": "199296",
+    "Name": "Testing the APIs",
+    "Description": "Testing the APIs",
+    "Keyword": "",
+    "SendClassification": {
+        "CustomerKey": "Default Commercial"
+    },
+    "FromName": "Make Positive",
+    "FromAddress": "info@makepositive.com",
+    "SuppressTracking": "false",
+    "TriggeredSendType": "Continuous",
+    "TriggeredSendStatus": "Active",
+    "AutoAddSubscribers": "true",
+    "AutoUpdateSubscribers": "false",
+    "BatchInterval": "0",
+    "BccEmail": "",
+    "EmailSubject": "Help us raise funds for a good cause",
+    "DynamicEmailSubject": "Help us raise funds for a good cause",
+    "IsMultipart": "false",
+    "IsWrapped": "true",
+    "AllowedSlots": "0",
+    "NewSlotTrigger": "0",
+    "Priority": "4",
+    "r__folder_Path": "Triggered Sends",
+    "r__assetMessage_Name": "Crohn and Colitis Event Campaign",
+    "r__assetMessage_Key": "77708847-382a-48fc-80c7-3711a71084c1",
+    "r__list_PathName": "my subscribers/All Subscribers"
+}

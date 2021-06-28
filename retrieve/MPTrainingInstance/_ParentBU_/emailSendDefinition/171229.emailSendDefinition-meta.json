@@ -1,0 +1,32 @@
+{
+    "CreatedDate": "2017-02-05T06:32:44.033",
+    "ModifiedDate": "2017-02-05T06:32:44.033",
+    "CustomerKey": "171229",
+    "Name": "qwerty",
+    "Description": "",
+    "SendClassification": {
+        "CustomerKey": "Default Commercial"
+    },
+    "SenderProfile": {
+        "CustomerKey": "Default"
+    },
+    "DeliveryProfile": {
+        "CustomerKey": "Default"
+    },
+    "SuppressTracking": "false",
+    "IsSendLogging": "true",
+    "BccEmail": "",
+    "AutoBccEmail": "",
+    "TestEmailAddr": "",
+    "EmailSubject": "Thank you for buying a car",
+    "DynamicEmailSubject": "Thank you for buying a car",
+    "IsMultipart": "true",
+    "IsWrapped": "true",
+    "DeduplicateByEmail": "false",
+    "ExclusionFilter": "",
+    "Additional": "",
+    "CCEmail": "",
+    "r__folder_Path": "User-Initiated",
+    "r__email_Name": "1 SFMC Bought car",
+    "SendDefinitionList": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "001 products",
+    "key": "d33f4c09-026b-41b9-af4d-53ff4a374790",
+    "description": "",
+    "targetKey": "46DDB793-ECBB-42BC-89B5-3DB21E56382D",
+    "createdDate": "2017-04-28T06:31:14.033",
+    "modifiedDate": "2017-04-28T06:49:15.72",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

@@ -1,0 +1,32 @@
+{
+    "CreatedDate": "2016-09-23T22:52:00",
+    "ModifiedDate": "2017-04-18T05:47:00",
+    "CustomerKey": "45678ytu",
+    "Name": "TestNik TriggeredSend",
+    "Description": "TestNik TriggeredSend",
+    "Keyword": "",
+    "SendClassification": {
+        "CustomerKey": "Default Transactional"
+    },
+    "FromName": "Make Positive",
+    "FromAddress": "info@makepositive.com",
+    "SuppressTracking": "false",
+    "TriggeredSendType": "Continuous",
+    "TriggeredSendStatus": "New",
+    "List": {
+        "ID": "19152"
+    },
+    "AutoAddSubscribers": "true",
+    "AutoUpdateSubscribers": "true",
+    "BatchInterval": "0",
+    "BccEmail": "",
+    "EmailSubject": "Notification for Test List",
+    "DynamicEmailSubject": "Notification for Test List",
+    "IsMultipart": "false",
+    "IsWrapped": "true",
+    "AllowedSlots": "0",
+    "NewSlotTrigger": "0",
+    "Priority": "4",
+    "r__folder_Path": "Triggered Sends/Archive",
+    "r__email_Name": "Kamal Subscriber"
+}

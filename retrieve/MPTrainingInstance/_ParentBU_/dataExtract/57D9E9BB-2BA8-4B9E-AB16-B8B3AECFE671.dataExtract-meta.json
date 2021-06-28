@@ -1,0 +1,39 @@
+{
+    "name": "001Nishat",
+    "key": "57D9E9BB-2BA8-4B9E-AB16-B8B3AECFE671",
+    "fileSpec": "001Nishat%%Year%%%%Month%%%%Day%%.csv",
+    "createdDate": "2019-01-09T06:12:33.52",
+    "modifiedDate": "2019-01-09T07:58:53.91",
+    "createdBy": 7335629,
+    "modifiedBy": 7335629,
+    "intervalType": 0,
+    "description": "",
+    "dataFields": [
+        {
+            "name": "ColumnDelimiter",
+            "type": "string",
+            "value": ","
+        },
+        {
+            "name": "DECustomerKey",
+            "type": "string",
+            "value": "1ED919BF-38E7-4D4E-B61A-F1FB255EAEBB"
+        },
+        {
+            "name": "HasColumnHeaders",
+            "type": "bool",
+            "value": "True"
+        },
+        {
+            "name": "TextQualified",
+            "type": "bool",
+            "value": "True"
+        },
+        {
+            "name": "UsesLineFeed",
+            "type": "bool",
+            "value": "True"
+        }
+    ],
+    "r__dataExtractType_name": "Data Extension Extract"
+}

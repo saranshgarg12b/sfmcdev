@@ -1,0 +1,29 @@
+<table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">%%[
+
+Var @value 
+Var @FFkey 
+Set @FFkey  =  AttributeValue("Fkey")
+
+Set @value = Lookup('PreferenceDE_AR','Value','Key',@FFkey) 
+
+%%=v(@value)=%%
+
+]%%
+
+%%=v(@value)=%%
+
+
+%%[
+/ init script block /
+var @content1
+set @content1 = ContentBlockbyId("198670")
+
+]%%
+
+<!-- other HTML -->
+
+%%[ if @value then ]%%
+
+%%=v(@content1)=%% 
+
+%%[ endif ]%%</td></tr></table>

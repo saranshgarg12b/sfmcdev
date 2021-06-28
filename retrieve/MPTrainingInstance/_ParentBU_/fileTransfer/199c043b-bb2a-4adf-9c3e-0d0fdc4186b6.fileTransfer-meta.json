@@ -1,0 +1,16 @@
+{
+    "name": "001Nishat",
+    "customerKey": "199c043b-bb2a-4adf-9c3e-0d0fdc4186b6",
+    "createdDate": "2019-01-09T06:13:30.363",
+    "modifiedDate": "2019-01-09T08:00:12.66",
+    "fileSpec": "001Nishat%%Year%%%%Month%%%%Day%%.csv",
+    "isEncrypted": false,
+    "isCompressed": false,
+    "maxFileAge": 0,
+    "maxFileAgeScheduleOffset": 0,
+    "maxImportFrequency": 0,
+    "isUpload": true,
+    "isPgp": false,
+    "isFileSpecLocalized": false,
+    "r__ftpLocation_name": "Export Directory"
+}

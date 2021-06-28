@@ -1,0 +1,33 @@
+{
+    "CreatedDate": "2020-11-17T16:18:00",
+    "ModifiedDate": "2020-11-17T16:18:00",
+    "CustomerKey": "Invitation_triggers_test1",
+    "Name": "Invitation_triggers_test1",
+    "Description": "Invitation_triggers_test1",
+    "Keyword": "",
+    "SendClassification": {
+        "CustomerKey": "66038"
+    },
+    "FromName": "Saransh Garg",
+    "FromAddress": "tsfmc2903@gmail.com",
+    "SuppressTracking": "false",
+    "TriggeredSendType": "Continuous",
+    "TriggeredSendStatus": "New",
+    "List": {
+        "ID": "193"
+    },
+    "AutoAddSubscribers": "true",
+    "AutoUpdateSubscribers": "false",
+    "BatchInterval": "0",
+    "BccEmail": "",
+    "EmailSubject": "You are invited",
+    "DynamicEmailSubject": "You are invited",
+    "IsMultipart": "false",
+    "IsWrapped": "true",
+    "AllowedSlots": "0",
+    "NewSlotTrigger": "0",
+    "Priority": "4",
+    "r__folder_Path": "Triggered Sends",
+    "r__assetMessage_Name": "Test_trigger",
+    "r__assetMessage_Key": "32129c2c-861a-4009-b22e-5e064da85dc6"
+}

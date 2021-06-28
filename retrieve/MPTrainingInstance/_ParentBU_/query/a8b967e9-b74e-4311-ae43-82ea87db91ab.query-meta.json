@@ -1,0 +1,11 @@
+{
+    "name": "Clicks",
+    "key": "a8b967e9-b74e-4311-ae43-82ea87db91ab",
+    "description": "",
+    "targetKey": "55945112-775B-4288-8500-66176B1972AD",
+    "createdDate": "2017-07-19T03:24:38.023",
+    "modifiedDate": "2017-07-25T04:32:50.357",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

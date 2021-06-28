@@ -1,0 +1,38 @@
+{
+    "customerKey": "4f21640a-51aa-4ae9-93b5-18090debdfe3",
+    "assetType": {
+        "name": "htmlblock",
+        "displayName": "HTML Block"
+    },
+    "name": "GA Tracking 2",
+    "owner": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "createdDate": "2017-06-26T04:13:22.377-06:00",
+    "createdBy": {
+        "email": "kim.hellbom@makepositive.com",
+        "name": "Kim Hellbom"
+    },
+    "modifiedDate": "2019-04-12T13:59:05.527-06:00",
+    "modifiedBy": {
+        "email": "mp.support@makepositive.com",
+        "name": "Support Team"
+    },
+    "status": {
+        "name": "Draft"
+    },
+    "tags": [],
+    "design": "",
+    "meta": {
+        "wrapperStyles": {
+            "mobile": {
+                "visible": true
+            },
+            "styling": {}
+        }
+    },
+    "availableViews": [],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder/002 RSPB"
+}

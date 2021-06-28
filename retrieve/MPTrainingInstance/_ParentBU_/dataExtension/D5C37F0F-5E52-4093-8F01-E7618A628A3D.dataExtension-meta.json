@@ -1,0 +1,43 @@
+{
+    "CreatedDate": "2017-12-12T10:42:57.807",
+    "CustomerKey": "D5C37F0F-5E52-4093-8F01-E7618A628A3D",
+    "Name": "00001 mobile push sql view",
+    "Description": "",
+    "IsSendable": "false",
+    "IsTestable": "false",
+    "RowBasedRetention": "false",
+    "ResetRetentionPeriodOnImport": "false",
+    "DeleteAtEndOfRetentionPeriod": "false",
+    "RetainUntil": "",
+    "Fields": [
+        {
+            "Name": "Application",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "1500",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Contact ID",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "1500",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Device ID",
+            "Scale": "0",
+            "DefaultValue": "",
+            "MaxLength": "1500",
+            "IsRequired": "false",
+            "IsPrimaryKey": "false",
+            "FieldType": "Text"
+        }
+    ],
+    "r__folder_ContentType": "dataextension",
+    "r__folder_Path": "Data Extensions"
+}

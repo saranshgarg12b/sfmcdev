@@ -1,0 +1,11 @@
+{
+    "name": "Rikke Test Query",
+    "key": "367d7775-debb-44c3-8aff-052c94aaaadf",
+    "description": "",
+    "targetKey": "F28F3E62-8C72-4878-9843-168DE84A5215",
+    "createdDate": "2016-10-29T05:54:16.28",
+    "modifiedDate": "2016-10-29T06:09:49.31",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

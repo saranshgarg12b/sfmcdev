@@ -1,0 +1,10 @@
+Error Log
+Parser: html
+Unexpected closing tag "td". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (400:12)
+  398 |                 }
+  399 |               </style>
+> 400 |            </td>
+      |            ^^^^^
+  401 |         </tr>
+  402 |       </tbody>
+  403 |     </table>
