@@ -1,0 +1,123 @@
+[
+    {
+        "PartnerKey": "",
+        "ID": "7220291",
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": "0",
+        "Name": "Make Positive",
+        "IsActive": "1",
+        "ParentName": "",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": "7298455",
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": "7220291",
+        "Name": "Demo",
+        "IsActive": "1",
+        "ParentName": "Make Positive",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": "7330162",
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": "7220291",
+        "Name": "Grad Training 2019",
+        "IsActive": "1",
+        "ParentName": "Make Positive",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": "7330434",
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": "7329501",
+        "Name": "Interaction Studio v1 - SG",
+        "IsActive": "1",
+        "ParentName": "Saransh Garg - MC Training",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": "7330435",
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": "7329501",
+        "Name": "Interaction Studio v2 - SG",
+        "IsActive": "1",
+        "ParentName": "Saransh Garg - MC Training",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": "518003313",
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": "7220291",
+        "Name": "MC Training BU - Jack Holliday",
+        "IsActive": "1",
+        "ParentName": "Make Positive",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": "518000990",
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": "7220291",
+        "Name": "MP Internal",
+        "IsActive": "1",
+        "ParentName": "Make Positive",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": "7298647",
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": "7220291",
+        "Name": "PPD Einstein",
+        "IsActive": "1",
+        "ParentName": "Make Positive",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": "7328996",
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": "7220291",
+        "Name": "Rishabh Training",
+        "IsActive": "1",
+        "ParentName": "Make Positive",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": "7304630",
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": "7220291",
+        "Name": "RSPB DEMO",
+        "IsActive": "1",
+        "ParentName": "Make Positive",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": "7329501",
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": "7220291",
+        "Name": "Saransh Garg - MC Training",
+        "IsActive": "1",
+        "ParentName": "Make Positive",
+        "Subscription": ""
+    }
+]
