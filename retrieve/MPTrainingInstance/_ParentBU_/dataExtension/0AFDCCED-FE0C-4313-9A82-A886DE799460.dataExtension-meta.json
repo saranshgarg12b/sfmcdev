@@ -3,7 +3,7 @@
     "CustomerKey": "0AFDCCED-FE0C-4313-9A82-A886DE799460",
     "Name": "Off-Line-Crohns-Data",
     "Description": "",
-    "IsSendable": "false",
+    "IsSendable": "true",
     "IsTestable": "true",
     "SendableDataExtensionField": {
         "Name": "_ContactKey"
